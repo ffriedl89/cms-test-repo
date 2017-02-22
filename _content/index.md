@@ -1,8 +1,10 @@
 ---
-title: welcome to my blog
-layout: page
 classes: two-columns
+layout: page
 postid: postingid
+title: welcome to my blog
 ---
 
-# here is my blog and here is my castle
+# hallo lara
+
+**bold text**
