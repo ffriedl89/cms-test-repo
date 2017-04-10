@@ -1,11 +1,8 @@
 ---
-classes: two-columns
-layout: page
-postid: postingid
-title: welcome to my blog
+title: aasdf
 ---
 
-# hallo this is 
+# hallo this is some subcontent
 
 **bold text**
 
