@@ -2,7 +2,7 @@
 classes: two-columns
 layout: page
 postid: postingid
-title: welcome to my can is
+title: welcome to my
 ---
 
 # hallo this is some change this now
